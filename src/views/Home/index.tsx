@@ -25,7 +25,7 @@ function Home() {
                 </div>
                 <div className="lanch_text_group">
                     <p className="home_lanch_text">The First NFT Launchpad:</p>
-                    <p className="home_lanch_text">Stake , Generate, & Deploy</p>
+                    <p className="home_lanch_text">Stake, Generate, & Deploy</p>
                 </div>
                 <div className="desc_text_group">
                     <p className="token_description">
@@ -37,15 +37,15 @@ function Home() {
                 </div>
                 <div className="home_info lanch_text_group">
                     <div className="token_col">
-                        <span className="token_description">Treasury Balance</span>
+                        <span className="balance_description">Treasury Balance</span>
                         <span className="token_balance">$999,999,999</span>
                     </div>
                     <div className="token_col">
-                        <span className="token_description">Total Value Locked</span>
+                        <span className="balance_description">Total Value Locked</span>
                         <span className="token_balance">$999,999,999</span>
                     </div>
                     <div className="token_col">
-                        <span className="token_description">Current APY</span>
+                        <span className="balance_description">Current APY</span>
                         <span className="token_balance">100,000%</span>
                     </div>
                 </div>
